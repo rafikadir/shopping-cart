@@ -1,2 +1,2 @@
 # Dynamic Shopping Cart
-<a href=" https://rafikadir.github.io/shopping-cart/">LIVE VIEW</a>
+<a href="https://rafikadir.github.io/shopping-cart">LIVE VIEW</a>
